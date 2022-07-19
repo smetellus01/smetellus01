@@ -14,5 +14,18 @@
 
 **Hey there!** :smile: My name is **Sebastian**. I'm a 20-year-old **developer** and **college student** from Pembroke Pines, Florida and currently reside in Tallahassee, Florida.
 
+##
+
+- 🔭 I’m currently working on a Resume Website
+- 🌱 I’m currently learning HTML and CSS
+- 💬 Ask me about: tech, mentorship, ultimate frisbee
+- ⚡ Languages: Java, Python, C++
+
+
+> Comparison is the thief of joy.
+
+
+##
+⭐️ From [Sebastian Metellus](https://github.com/smetellus01)
 
 
