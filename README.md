@@ -15,18 +15,25 @@
 
 **Hey there!** :smile: My name is **Sebastian**. I'm a 20-year-old **developer** and **college student** from Pembroke Pines, Florida and currently reside in Tallahassee, Florida.
 
-##
-
 - 🔭 I’m currently working on a Resume Website
 - 🌱 I’m currently learning **HTML** and **React.js**
-- 💬 Ask me about: tech, mentorship, ultimate frisbee
-- ⚡ Languages: **Java**, **Python**, **C++**
+- 💬 Ask me about: tech, mentorship, soccer
+- ⚡ Fun Fact: I play ultimate frisbee for **Florida State University**
 
 
 > Comparison is the thief of joy.
 
+## Technologies💻:
 
-##
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 ⭐️ From [Sebastian Metellus](https://github.com/smetellus01)
 
 
