@@ -13,7 +13,7 @@
 
 ## About Me 👋🏾:
 
-**Hey there!** :smile: My name is **Sebastian**. I'm a 20-year-old **developer** and **college student** from Pembroke Pines, Florida and currently reside in Tallahassee, Florida.
+**Hey there!** :smile: My name is **Sebastian**. I'm a 20-year-old **developer** and **college student** from Pembroke Pines, Florida and I currently reside in Tallahassee, Florida.
 
 - 🔭 I’m currently working on a Resume Website
 - 🌱 I’m currently learning **HTML** and **React.js**
