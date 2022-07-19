@@ -18,9 +18,9 @@
 ##
 
 - 🔭 I’m currently working on a Resume Website
-- 🌱 I’m currently learning HTML and React.js
+- 🌱 I’m currently learning **HTML** and **React.js**
 - 💬 Ask me about: tech, mentorship, ultimate frisbee
-- ⚡ Languages: Java, Python, C++
+- ⚡ Languages: **Java**, **Python**, **C++**
 
 
 > Comparison is the thief of joy.
